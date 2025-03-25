@@ -1,0 +1,404 @@
+  {
+  "LevelDatas": [
+    {
+      "WaveDatas": [
+        {
+          "EnemyDatas": [
+            { "Id": "E0010", "Number": 5 },
+            { "Id": "E0002", "Number": 5 },
+            { "Id": "E0010", "Number": 5 }
+          ]
+        },
+        {
+          "EnemyDatas": [
+            { "Id": "E0001", "Number": 5 },
+            { "Id": "E0002", "Number": 5 },
+            { "Id": "E0003", "Number": 5 }
+          ]
+        },
+        {
+          "EnemyDatas": [
+              { "Id": "E0002", "Number": 5 },
+            { "Id": "E0003", "Number": 5 },
+            { "Id": "E0004", "Number": 5 }
+          ]
+        },
+        {
+          "EnemyDatas": [
+              { "Id": "E0003", "Number": 5 },
+            { "Id": "E0004", "Number": 5 },
+            { "Id": "E0005", "Number": 5 }
+          ]
+        },
+        {
+          "EnemyDatas": [
+              { "Id": "E0003", "Number": 5 },
+            { "Id": "E0002", "Number": 5 },
+            { "Id": "E0006", "Number": 5 }
+          ]
+        },
+        {
+          "EnemyDatas": [
+              { "Id": "E0004", "Number": 5 },
+            { "Id": "E0005", "Number": 5 },
+            { "Id": "E0006", "Number": 5 }
+          ]
+        },
+        {
+          "EnemyDatas": [
+              { "Id": "E0007", "Number": 5 },
+            { "Id": "E0008", "Number": 5 },
+            { "Id": "E0009", "Number": 5 }
+          ]
+        }
+      ],
+      "MaxEnemyCanPass": 10,
+      "Level":0,
+      "Gold":300,
+      "IdBackGround":0
+
+    },
+    {
+      "WaveDatas": [
+        {
+          "EnemyDatas": [
+              { "Id": "E0001", "Number": 5 },
+            { "Id": "E0002", "Number": 5 },
+            { "Id": "E0003", "Number": 5 }
+          ]
+        },
+        {
+          "EnemyDatas": [
+              { "Id": "E0001", "Number": 5 },
+            { "Id": "E0002", "Number": 5 },
+            { "Id": "E0003", "Number": 5 }
+          ]
+        },
+        {
+          "EnemyDatas": [
+              { "Id": "E0001", "Number": 5 },
+            { "Id": "E0002", "Number": 5 },
+            { "Id": "E0003", "Number": 5 }
+          ]
+        },
+        {
+          "EnemyDatas": [
+              { "Id": "E0001", "Number": 5 },
+            { "Id": "E0002", "Number": 5 },
+            { "Id": "E0003", "Number": 5 }
+          ]
+        },
+        {
+          "EnemyDatas": [
+              { "Id": "E0001", "Number": 5 },
+            { "Id": "E0002", "Number": 5 },
+            { "Id": "E0003", "Number": 5 }
+          ]
+        },
+        {
+          "EnemyDatas": [
+              { "Id": "E0001", "Number": 5 },
+            { "Id": "E0002", "Number": 5 },
+            { "Id": "E0003", "Number": 5 }
+          ]
+        },
+        {
+          "EnemyDatas": [
+              { "Id": "E0001", "Number": 5 },
+            { "Id": "E0002", "Number": 5 },
+            { "Id": "E0003", "Number": 5 }
+          ]
+        }
+      ],
+      "MaxEnemyCanPass": 10,
+      "Level":1,
+       "Gold":350,
+      "IdBackGround":1
+    },
+    {
+      "WaveDatas": [
+        {
+          "EnemyDatas": [
+              { "Id": "E0001", "Number": 3 },
+            { "Id": "E0002", "Number": 4 },
+            { "Id": "E0003", "Number": 5 }
+          ]
+        },
+        {
+          "EnemyDatas": [
+              { "Id": "E0001", "Number": 5 },
+            { "Id": "E0002", "Number": 5 },
+            { "Id": "E0003", "Number": 5 }
+          ]
+        },
+        {
+          "EnemyDatas": [
+              { "Id": "E0001", "Number": 5 },
+            { "Id": "E0002", "Number": 5 },
+            { "Id": "E0003", "Number": 5 }
+          ]
+        },
+        {
+          "EnemyDatas": [
+              { "Id": "E0001", "Number": 5 },
+            { "Id": "E0002", "Number": 5 },
+            { "Id": "E0003", "Number": 5 }
+          ]
+        },
+        {
+          "EnemyDatas": [
+              { "Id": "E0001", "Number": 5 },
+            { "Id": "E0002", "Number": 5 },
+            { "Id": "E0003", "Number": 5 }
+          ]
+        },
+        {
+          "EnemyDatas": [
+              { "Id": "E0001", "Number": 5 },
+            { "Id": "E0002", "Number": 5 },
+            { "Id": "E0003", "Number": 5 }
+          ]
+        },
+        {
+          "EnemyDatas": [
+              { "Id": "E0001", "Number": 5 },
+            { "Id": "E0002", "Number": 5 },
+            { "Id": "E0003", "Number": 5 }
+          ]
+        }
+      ],
+      "MaxEnemyCanPass": 10,
+      "Level":2,
+       "Gold":400,
+      "IdBackGround":0
+    },
+       {
+      "WaveDatas": [
+        {
+          "EnemyDatas": [
+              { "Id": "E0007", "Number": 5 },
+            { "Id": "E0002", "Number": 5 },
+            { "Id": "E0003", "Number": 5 }
+          ]
+        },
+        {
+          "EnemyDatas": [
+              { "Id": "E0001", "Number": 5 },
+            { "Id": "E0002", "Number": 5 },
+            { "Id": "E0003", "Number": 5 }
+          ]
+        },
+        {
+          "EnemyDatas": [
+              { "Id": "E0001", "Number": 5 },
+            { "Id": "E0002", "Number": 5 },
+            { "Id": "E0003", "Number": 5 }
+          ]
+        },
+        {
+          "EnemyDatas": [
+              { "Id": "E0001", "Number": 5 },
+            { "Id": "E0002", "Number": 5 },
+            { "Id": "E0003", "Number": 5 }
+          ]
+        },
+        {
+          "EnemyDatas": [
+              { "Id": "E0001", "Number": 5 },
+            { "Id": "E0002", "Number": 5 },
+            { "Id": "E0003", "Number": 5 }
+          ]
+        },
+        {
+          "EnemyDatas": [
+              { "Id": "E0001", "Number": 5 },
+            { "Id": "E0002", "Number": 5 },
+            { "Id": "E0003", "Number": 5 }
+          ]
+        },
+        {
+          "EnemyDatas": [
+              { "Id": "E0001", "Number": 5 },
+            { "Id": "E0002", "Number": 5 },
+            { "Id": "E0003", "Number": 5 }
+          ]
+        }
+      ],
+      "MaxEnemyCanPass": 10,
+      "Level":3,
+       "Gold":450,
+      "IdBackGround":1
+    },
+    {
+      "WaveDatas": [
+        {
+          "EnemyDatas": [
+              { "Id": "E0001", "Number": 5 },
+            { "Id": "E0002", "Number": 5 },
+            { "Id": "E0003", "Number": 5 }
+          ]
+        },
+        {
+          "EnemyDatas": [
+              { "Id": "E0001", "Number": 5 },
+            { "Id": "E0002", "Number": 5 },
+            { "Id": "E0003", "Number": 5 }
+          ]
+        },
+        {
+          "EnemyDatas": [
+              { "Id": "E0001", "Number": 5 },
+            { "Id": "E0002", "Number": 5 },
+            { "Id": "E0003", "Number": 5 }
+          ]
+        },
+        {
+          "EnemyDatas": [
+              { "Id": "E0001", "Number": 5 },
+            { "Id": "E0002", "Number": 5 },
+            { "Id": "E0003", "Number": 5 }
+          ]
+        },
+        {
+          "EnemyDatas": [
+              { "Id": "E0001", "Number": 5 },
+            { "Id": "E0002", "Number": 5 },
+            { "Id": "E0003", "Number": 5 }
+          ]
+        },
+        {
+          "EnemyDatas": [
+              { "Id": "E0001", "Number": 5 },
+            { "Id": "E0002", "Number": 5 },
+            { "Id": "E0003", "Number": 5 }
+          ]
+        },
+        {
+          "EnemyDatas": [
+              { "Id": "E0001", "Number": 5 },
+            { "Id": "E0002", "Number": 5 },
+            { "Id": "E0003", "Number": 5 }
+          ]
+        }
+      ],
+      "MaxEnemyCanPass": 10,
+      "Level":4,
+      "Gold":500,
+      "IdBackGround":0
+    },
+    {
+      "WaveDatas": [
+        {
+          "EnemyDatas": [
+              { "Id": "E0001", "Number": 5 },
+            { "Id": "E0002", "Number": 5 },
+            { "Id": "E0003", "Number": 5 }
+          ]
+        },
+        {
+          "EnemyDatas": [
+              { "Id": "E0001", "Number": 5 },
+            { "Id": "E0002", "Number": 5 },
+            { "Id": "E0003", "Number": 5 }
+          ]
+        },
+        {
+          "EnemyDatas": [
+              { "Id": "E0001", "Number": 5 },
+            { "Id": "E0002", "Number": 5 },
+            { "Id": "E0003", "Number": 5 }
+          ]
+        },
+        {
+          "EnemyDatas": [
+              { "Id": "E0001", "Number": 5 },
+            { "Id": "E0002", "Number": 5 },
+            { "Id": "E0003", "Number": 5 }
+          ]
+        },
+        {
+          "EnemyDatas": [
+              { "Id": "E0001", "Number": 5 },
+            { "Id": "E0002", "Number": 5 },
+            { "Id": "E0003", "Number": 5 }
+          ]
+        },
+        {
+          "EnemyDatas": [
+              { "Id": "E0001", "Number": 5 },
+            { "Id": "E0002", "Number": 5 },
+            { "Id": "E0003", "Number": 5 }
+          ]
+        },
+        {
+          "EnemyDatas": [
+              { "Id": "E0001", "Number": 5 },
+            { "Id": "E0002", "Number": 5 },
+            { "Id": "E0003", "Number": 5 }
+          ]
+        }
+      ],
+      "MaxEnemyCanPass": 10,
+      "Level":5,
+      "Gold":600,
+      "IdBackGround":1
+    },
+    {
+      "WaveDatas": [
+        {
+          "EnemyDatas": [
+              { "Id": "E0005", "Number": 5 },
+            { "Id": "E0006", "Number": 5 },
+            { "Id": "E0007", "Number": 5 }
+          ]
+        },
+        {
+          "EnemyDatas": [
+              { "Id": "E0008", "Number": 5 },
+            { "Id": "E0007", "Number": 5 },
+            { "Id": "E0006", "Number": 5 }
+          ]
+        },
+        {
+          "EnemyDatas": [
+              { "Id": "E0009", "Number": 5 },
+            { "Id": "E0005", "Number": 5 },
+            { "Id": "E0007", "Number": 5 }
+          ]
+        },
+        {
+          "EnemyDatas": [
+              { "Id": "E0005", "Number": 5 },
+            { "Id": "E0007", "Number": 5 },
+            { "Id": "E0006", "Number": 5 }
+          ]
+        },
+        {
+          "EnemyDatas": [
+              { "Id": "E0001", "Number": 5 },
+            { "Id": "E0002", "Number": 5 },
+            { "Id": "E0003", "Number": 5 }
+          ]
+        },
+        {
+          "EnemyDatas": [
+              { "Id": "E0005", "Number": 5 },
+            { "Id": "E0004", "Number": 5 },
+            { "Id": "E0003", "Number": 5 }
+          ]
+        },
+        {
+          "EnemyDatas": [
+              { "Id": "E0008", "Number": 5 },
+            { "Id": "E0006", "Number": 5 },
+            { "Id": "E0003", "Number": 5 }
+          ]
+        }
+      ],
+      "MaxEnemyCanPass": 10,
+      "Level":6,
+      "Gold":550,
+      "IdBackGround":1
+    }
+  ]
+}
